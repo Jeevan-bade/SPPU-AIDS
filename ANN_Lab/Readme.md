@@ -60,4 +60,3 @@ Academic use only. Refer to [SPPU syllabus](http://collegecirculars.unipune.ac.i
 
 **Maintained by**: Jeevan Bade | `jeevanbade004@gmail.com`  
 *Last Updated: May 2024*
-```
