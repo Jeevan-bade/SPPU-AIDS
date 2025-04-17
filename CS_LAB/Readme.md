@@ -1,7 +1,7 @@
 # 🔐 Cyber Security Mini Projects - Part A
 
-This repository contains implementations of five foundational cryptographic algorithms as part of the **Cyber Security Mini Project** (Savitribai Phule Pune University, TY B.Tech - AI & DS). Each assignment demonstrates core concepts in both **symmetric** and **asymmetric** cryptography.
-
+This repository contains implementations of five foundational cryptographic algorithms as part of the **Cyber Security Lab** (Savitribai Phule Pune University, TE - AI & DS). Each assignment demonstrates core concepts in both **symmetric** and **asymmetric** cryptography.
+/
 ## 📌 Assignments Included
 
 1. **S-DES (Simplified Data Encryption Standard)**
